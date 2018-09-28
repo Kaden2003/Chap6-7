@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kg154824\source\repos\random 4loop num\random 4loop num\source.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kg154824\source\repos\random 4loop num\random 4loop num\source.cpp(10): warning C4101: 'numberChoice': unreferenced local variable
+  random 4loop num.vcxproj -> c:\users\kg154824\source\repos\random 4loop num\Debug\random 4loop num.exe

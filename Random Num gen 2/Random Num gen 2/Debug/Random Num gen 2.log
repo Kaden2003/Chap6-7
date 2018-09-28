@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kg154824\source\repos\random num gen 2\random num gen 2\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Num gen 2.vcxproj -> C:\Users\kg154824\source\repos\Random Num gen 2\Debug\Random Num gen 2.exe
